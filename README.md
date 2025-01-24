@@ -18,4 +18,8 @@ Endpoint of the server
 Connection between server and client is established
 ![image](https://github.com/user-attachments/assets/cabdbf02-bb11-4850-8739-eb80fe123d48)
 
+The main screen in Ignition Designer:
+![image](https://github.com/user-attachments/assets/aa71921e-d0af-4b99-be33-154795a25f6d)
+
+
 
