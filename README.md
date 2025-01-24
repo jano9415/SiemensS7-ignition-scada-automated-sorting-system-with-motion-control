@@ -15,3 +15,7 @@ Connect to the OPC-UA server from Ignition gateway:
 Endpoint of the server
 ![image](https://github.com/user-attachments/assets/90665a84-1d75-402f-a94a-e23d6030eedb)
 
+Connection between server and client is established
+![image](https://github.com/user-attachments/assets/cabdbf02-bb11-4850-8739-eb80fe123d48)
+
+
